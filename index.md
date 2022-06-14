@@ -27,4 +27,4 @@ Well, it's impossible *now.* One of the goals of CISRR is to make it entirely po
 
 ## Interested?
 
-Starting anything new and sufficiently different is a scary and challenging experience. No one can do it alone and stay healthy (or sane). To succeed, CISRR needs help from a wide variety of people: researchers, engineers, librarians, editors, security practitioners, and of course donors. If you're interested in lending a hand, or want to help test our beta, please drop a line to [Contribute](mailto:mike@cisrr.org).
+Starting anything new and sufficiently different is a scary and challenging experience. No one can do it alone and stay healthy (or sane). To succeed, CISRR needs help from a wide variety of people: researchers, engineers, librarians, editors, security practitioners, and of course donors. **If you're interested in lending a hand, or want to help test our beta, please drop a line to [Contribute](mailto:mike@cisrr.org).**
